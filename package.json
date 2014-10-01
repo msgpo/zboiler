@@ -1,0 +1,25 @@
+{
+  "name": "Project",
+  "version": "0.1.0",
+  "description": "Project Description",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-requirejs": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-exec": "latest",
+    "load-grunt-tasks": "latest",
+    "time-grunt": "latest"
+  },
+  "keywords": [
+    "Grunt",
+    "JavaScript"
+  ],
+  "author": "Yongzhi Huang"
+}

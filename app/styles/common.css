@@ -1,0 +1,27 @@
+.medium-green-button {
+	width: 400px;
+	background: #27AE60;
+	font-weight: bold;
+	font-size: 28px;
+	color: white;
+	border: 0 none;
+	border-radius: 1px;
+	cursor: pointer;
+	padding: 10px 5px;
+	margin: 10px auto 11px auto;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+.medium-green-button:hover {
+	box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+
+.break {
+	border-bottom: 2px solid #f0f0f0;
+}
+
+.large-text {
+	font-size: 45px;
+}

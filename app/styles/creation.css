@@ -1,0 +1,8 @@
+.bundle-creation {
+	text-align: center;
+}
+
+.step,
+.step-navigator {
+	display: none;
+}
